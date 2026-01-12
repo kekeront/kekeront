@@ -10,4 +10,4 @@ However, my superpowers at the moment are..
 **TypeScript** and **Python**
 
 ## I'm excited to chat and collaborate! 😊✨
-For DMs, write me in telegram @altaircode, linkedin, or via altair.icu with a message "Hey, saw your github, it's pretty nice!"
+For DMs, write me in telegram @altaircode, linkedin, or via altair.icu with a message "Sup! How you doing?"
