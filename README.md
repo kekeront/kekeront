@@ -1,13 +1,43 @@
-# ☀️ Pixel Cozy Street on a warm day
-![gigig](https://wallpaperaccess.com/full/6196574.jpg)
+<img src="https://wallpaperaccess.com/full/6196574.jpg" width="100%" alt="Pixel Cozy Street on a warm day" />
 
-## 🌸 About Me
-Hello there! I'm Altair, a Software Engineer from Almaty, KZ. I'm always up for a new adventure, especially when it comes to crafting fun and creative experiences. 🚀
+<br/>
 
-## 💻 Tech Stack
-Not limited to anything ;)
-However, my superpowers at the moment are..
-**TypeScript** and **Python**
+```
+  ~ a warm afternoon on a pixel street ~
+```
 
-## I'm excited to chat and collaborate! 😊✨
-For DMs, write me in telegram @altaircode, linkedin, or via altair.icu with a message "Sup! How you doing?"
+<br/>
+
+### Hey, I'm Altair
+
+Software Engineer from Almaty, KZ.  
+Always up for a new adventure — especially the kind that ships.
+
+<br/>
+
+#### What I work with
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Not limited to anything though ;)
+
+<br/>
+
+<details>
+<summary>GitHub stats</summary>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=kekeront&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kekeront&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</details>
+
+<br/>
+
+#### Let's chat
+
+For DMs, find me on [Telegram @altaircode](https://t.me/altaircode), [LinkedIn](https://linkedin.com/in/altairzhambyl), or drop a message at [altair.icu](https://altair.icu) — start with *"Sup! How you doing?"*
