@@ -31,8 +31,6 @@ Not limited to anything though ;)
 <details>
 <summary>GitHub stats</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kekeront&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kekeront&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </details>
 
