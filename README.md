@@ -11,11 +11,10 @@
 ### Hey, I'm Altair
 
 Software Engineer from Almaty, KZ.  
-Always up for a new adventure — especially the kind that ships.
 
 <br/>
 
-#### What I work with
+#### What I work with [including, but not limited to]:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,7 +23,6 @@ Always up for a new adventure — especially the kind that ships.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Not limited to anything though ;)
 
 <br/>
 
@@ -38,4 +36,4 @@ Not limited to anything though ;)
 
 #### Let's chat
 
-For DMs, find me on [Telegram @altaircode](https://t.me/altaircode), [LinkedIn](https://linkedin.com/in/altairzhambyl), or drop a message at [altair.icu](https://altair.icu) — start with *"Sup! How you doing?"*
+For DMs, find me on [Telegram @altaircode](https://t.me/altaircode), [LinkedIn](https://linkedin.com/in/altairzhambyl), or drop a message at [altair.icu](https://altair.icu).
